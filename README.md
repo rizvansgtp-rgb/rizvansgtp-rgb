@@ -1,14 +1,3 @@
-!--
-GitHub Profile README - Safe Public Version
-Ready version for GitHub username: rizvansgtp-rgb
-LinkedIn username used: mohamed-rizvan-7185631b4
-
-Safety note:
-Do not add phone number, passport number, visa number, ID number, exact address,
-internal IPs, firewall rules, VPN details, credentials, vendor portal screenshots,
-customer data, or company confidential documents.
--->
-
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="Mohamed Rizvan Muthalif - IT Infrastructure and Microsoft 365 profile banner" />
 </p>
