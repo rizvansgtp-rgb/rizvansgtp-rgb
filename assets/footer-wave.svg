@@ -1,0 +1,7 @@
+<svg width="1200" height="132" viewBox="0 0 1200 132" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile footer">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#020617"/><stop offset="0.5" stop-color="#082F49"/><stop offset="1" stop-color="#111827"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#22D3EE"/><stop offset="0.5" stop-color="#60A5FA"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+<rect width="1200" height="132" rx="22" fill="url(#bg)"/>
+<path d="M0 92 C180 30, 300 130, 480 78 S780 30, 960 82 S1120 124, 1200 64 V132 H0 Z" fill="url(#g)" opacity="0.22"><animate attributeName="d" values="M0 92 C180 30, 300 130, 480 78 S780 30, 960 82 S1120 124, 1200 64 V132 H0 Z;M0 72 C180 124, 300 42, 480 92 S780 134, 960 74 S1120 30, 1200 94 V132 H0 Z;M0 92 C180 30, 300 130, 480 78 S780 30, 960 82 S1120 124, 1200 64 V132 H0 Z" dur="8s" repeatCount="indefinite"/></path>
+<text x="600" y="52" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" text-anchor="middle">Standardize • Secure • Automate • Support</text>
+<text x="600" y="85" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="16" text-anchor="middle">Public-safe IT infrastructure knowledge base • Dubai, UAE</text>
+</svg>

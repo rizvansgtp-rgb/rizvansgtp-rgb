@@ -1,0 +1,16 @@
+<svg width="1200" height="245" viewBox="0 0 1200 245" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Public Safety Terminal</title>
+<desc id="desc">Public sharing rules for safe GitHub publishing.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="245"><stop stop-color="#020617"/><stop offset="1" stop-color="#111827"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="245" rx="22" fill="url(#bg)"/>
+<rect x="28" y="28" width="1144" height="189" rx="16" fill="#0B1222" stroke="#334155"/>
+<circle cx="58" cy="55" r="7" fill="#EF4444"/><circle cx="82" cy="55" r="7" fill="#F59E0B"/><circle cx="106" cy="55" r="7" fill="#22C55E"/>
+<text x="138" y="61" fill="#94A3B8" font-family="Consolas, Monaco, monospace" font-size="15">public-safety-terminal</text>
+<text x="52" y="105" fill="#38BDF8" font-family="Consolas, Monaco, monospace" font-size="18">$ publish --mode sanitized</text>
+<text x="52" y="139" fill="#E2E8F0" font-family="Consolas, Monaco, monospace" font-size="16">ALLOW: lab notes, generic templates, checklists, clean automation ideas</text>
+<text x="52" y="169" fill="#FCA5A5" font-family="Consolas, Monaco, monospace" font-size="16">BLOCK: passwords, IPs, tenant IDs, VPN configs, customer data, camera views</text>
+<rect x="955" y="95" width="168" height="82" rx="14" fill="#052E1A" stroke="#22C55E" stroke-opacity="0.4"/>
+<text x="1039" y="130" fill="#DCFCE7" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle">SAFE TO SHARE</text>
+<text x="1039" y="158" fill="#86EFAC" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="middle">Sanitized only</text>
+<rect x="113" y="92" width="12" height="22" fill="#38BDF8" filter="url(#glow)"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
